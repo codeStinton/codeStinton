@@ -1,7 +1,7 @@
 Hi 👋 My name is Elan Stinton
 =============================
 
-I am a recent Computer Science graduate achieving 1st Class Honours from Cardiff Metropolitan University. I am looking to use the skills I've learnt from University, and from my personal projects to begin my career in Software Development. Please feel free to reach out to me!
+I am a recent Computer Science graduate achieving 1st Class Honours from Cardiff Metropolitan University. I am looking to use the skills I've learnt from University, and from my personal projects to begin my career in Software Development. \N Please feel free to reach out to me!
 
 *   🌍  I'm based in West Midlands, UK
 *   ✉️  You can contact me at [elans33@hotmail.com](mailto:elans33@hotmail.com)
