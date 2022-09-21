@@ -6,6 +6,8 @@ I am a recent Computer Science graduate achieving 1st Class Honours from Cardiff
 <br/>
 Please feel free to reach out to me!
 
+<br/>
+
 *   🌍  I'm based in West Midlands, UK
 *   ✉️  You can contact me at [elans33@hotmail.com](mailto:elans33@hotmail.com)
 
