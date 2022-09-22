@@ -3,7 +3,6 @@ Hi 👋 My name is Elan Stinton
 
 I am a recent Computer Science graduate achieving 1st Class Honours from Cardiff Metropolitan University. I am looking to use the skills I've learnt from University, and from my personal projects to begin my career in Software Development. 
 <br/>
-<br/>
 Please feel free to reach out to me!
 
 <br/>
