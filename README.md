@@ -7,7 +7,7 @@ Please feel free to reach out to me!
 
 <br/>
 
-*   🌍  I'm based in West Midlands, UK
+*   🌍  I'm based in Cardiff, Wales
 *   ✉️  You can contact me at [elans33@hotmail.com](mailto:elans33@hotmail.com)
 
 ### Skills<p align="left">
