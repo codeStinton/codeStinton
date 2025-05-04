@@ -1,7 +1,7 @@
 Hi 👋 My name is Elan Stinton
 =============================
 
-Experienced software developer with 2 years professional experience, achieving 1st Class Honours in Computer Science from Cardiff Metropolitan University. Specializing in full-stack development contributing to enterprise and SaaS solutions.
+Experienced software developer with 3 years professional experience, achieving 1st Class Honours in Computer Science from Cardiff Metropolitan University. Specializing in full-stack development contributing to enterprise and SaaS solutions.
 
 <br>
 Please feel free to reach out to me!
